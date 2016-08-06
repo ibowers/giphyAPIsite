@@ -1,0 +1,1 @@
+var topics = ['mario','resident evil','grand theft auto v','sonic','pokemon','battlefield 4','rainbow six siege','metal gear solid','final fantasy'];
